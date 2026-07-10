@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CWH_BasicCoreJava.iml" filepath="$PROJECT_DIR$/CWH_BasicCoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corejavapractices.iml" filepath="$PROJECT_DIR$/corejavapractices.iml" />
     </modules>
   </component>
 </project>
