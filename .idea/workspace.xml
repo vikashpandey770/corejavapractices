@@ -5,47 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f6fbb2e-9b8b-460b-ba15-d5aad2ee8abc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corejavapractices.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CWHCoreJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CWH_BasicCoreJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/DataTypeOfExpressionIncriDecri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/IfElseFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/IncrimentDecriment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/Operator1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/PassAllSubjectStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/QuestionFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/Questionfour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/Questionthree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/Questiontwelve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/StringProgramfirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/StudentMarksProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/Takinginput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/gradehide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/gradingIfElseUse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/graterthanquestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/literals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/logicaloperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/mathquestions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/operatorLeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/operatorexamplestheryquestions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/operatorquestions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/practiceset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/ques1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/question1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/questionelevan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/questionten.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/questiontherteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/questiontwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/strigss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/switchcase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CWH_BasicCoreJava/variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/corejavapractices/multiplicationtable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejavapractices/multiplicationtable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CoreJava" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -73,38 +34,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BreakAndContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Forsloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.continueloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dowhileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dowhileprogram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forloopOddnuber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forloopthree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multiplicationtable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practiceone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.questionstarpattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starpatterneight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starpatternfive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starpatternseven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starpatternthree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starpatterntwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.statpatternsix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileloopquestion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileplusBreak.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/corejavapractices&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ARRAY.executor": "Run",
+    "Application.Arrat8.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.Array4Loop.executor": "Run",
+    "Application.Array5.executor": "Run",
+    "Application.Array6.executor": "Run",
+    "Application.Array7.executor": "Run",
+    "Application.Array9.executor": "Run",
+    "Application.BreakAndContinue.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.FactorialWhileloop.executor": "Run",
+    "Application.FactoriyalFind.executor": "Run",
+    "Application.FindUserFactorial.executor": "Run",
+    "Application.Forsloop.executor": "Run",
+    "Application.StarPattern.executor": "Run",
+    "Application.TableMulSum.executor": "Run",
+    "Application.array3.executor": "Run",
+    "Application.continueloop.executor": "Run",
+    "Application.dowhileloop.executor": "Run",
+    "Application.dowhileprogram.executor": "Run",
+    "Application.forloopOddnuber.executor": "Run",
+    "Application.forloopthree.executor": "Run",
+    "Application.loop.executor": "Run",
+    "Application.multiplicationtable.executor": "Run",
+    "Application.prac.executor": "Run",
+    "Application.practiceone.executor": "Run",
+    "Application.questionstarpattern.executor": "Run",
+    "Application.starpatterneight.executor": "Run",
+    "Application.starpatternfive.executor": "Run",
+    "Application.starpatternseven.executor": "Run",
+    "Application.starpatternthree.executor": "Run",
+    "Application.starpatterntwo.executor": "Run",
+    "Application.statpatternsix.executor": "Run",
+    "Application.whileloopquestion.executor": "Run",
+    "Application.whileloos.executor": "Run",
+    "Application.whileplusBreak.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/corejavapractices",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
