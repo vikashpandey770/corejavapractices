@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f6fbb2e-9b8b-460b-ba15-d5aad2ee8abc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/corejavapractices/multiplicationtable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejavapractices/multiplicationtable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -39,6 +39,8 @@
     "Application.ARRAY.executor": "Run",
     "Application.Arrat8.executor": "Run",
     "Application.Array1.executor": "Run",
+    "Application.Array10.executor": "Run",
+    "Application.Array11.executor": "Run",
     "Application.Array2.executor": "Run",
     "Application.Array4Loop.executor": "Run",
     "Application.Array5.executor": "Run",
@@ -51,14 +53,18 @@
     "Application.FactoriyalFind.executor": "Run",
     "Application.FindUserFactorial.executor": "Run",
     "Application.Forsloop.executor": "Run",
+    "Application.LadderIf.executor": "Run",
     "Application.StarPattern.executor": "Run",
     "Application.TableMulSum.executor": "Run",
+    "Application.TwoDary2.executor": "Run",
     "Application.array3.executor": "Run",
     "Application.continueloop.executor": "Run",
     "Application.dowhileloop.executor": "Run",
     "Application.dowhileprogram.executor": "Run",
+    "Application.foreach.executor": "Run",
     "Application.forloopOddnuber.executor": "Run",
     "Application.forloopthree.executor": "Run",
+    "Application.if1.executor": "Run",
     "Application.loop.executor": "Run",
     "Application.multiplicationtable.executor": "Run",
     "Application.prac.executor": "Run",
@@ -70,6 +76,12 @@
     "Application.starpatternthree.executor": "Run",
     "Application.starpatterntwo.executor": "Run",
     "Application.statpatternsix.executor": "Run",
+    "Application.switchcaseexa.executor": "Run",
+    "Application.twoDarray.executor": "Run",
+    "Application.twodarray3.executor": "Run",
+    "Application.twodary4.executor": "Run",
+    "Application.twodary6.executor": "Run",
+    "Application.twodary7.executor": "Run",
     "Application.whileloopquestion.executor": "Run",
     "Application.whileloos.executor": "Run",
     "Application.whileplusBreak.executor": "Run",
