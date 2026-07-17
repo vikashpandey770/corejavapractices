@@ -47,6 +47,7 @@
     "Application.Array6.executor": "Run",
     "Application.Array7.executor": "Run",
     "Application.Array9.executor": "Run",
+    "Application.ArrayQuestionone.executor": "Run",
     "Application.Breadks.executor": "Run",
     "Application.BreakAndContinue.executor": "Run",
     "Application.Cretenewobj.executor": "Run",
@@ -60,8 +61,12 @@
     "Application.FindUserFactorial.executor": "Run",
     "Application.Forsloop.executor": "Run",
     "Application.LadderIf.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.Mul_dim_arry.executor": "Run",
     "Application.PrimeNum.executor": "Run",
     "Application.PrimeNumbers.executor": "Run",
+    "Application.ProblemPracThree.executor": "Run",
+    "Application.ProblemPracticetwo.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.RandomNumber.executor": "Run",
     "Application.StarPattern.executor": "Run",
@@ -120,7 +125,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/corejavapractices",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
