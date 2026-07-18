@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f6fbb2e-9b8b-460b-ba15-d5aad2ee8abc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,15 +61,19 @@
     "Application.Fibonacci.executor": "Run",
     "Application.FindUserFactorial.executor": "Run",
     "Application.Forsloop.executor": "Run",
+    "Application.InstaWelcome.executor": "Run",
+    "Application.InstaWelcomefour.executor": "Run",
     "Application.LadderIf.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Mul_dim_arry.executor": "Run",
+    "Application.Palindrom.executor": "Run",
     "Application.PrimeNum.executor": "Run",
     "Application.PrimeNumbers.executor": "Run",
     "Application.ProblemPracThree.executor": "Run",
     "Application.ProblemPracticetwo.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.RandomNumber.executor": "Run",
+    "Application.Sample.executor": "Run",
     "Application.StarPattern.executor": "Run",
     "Application.SwitchString.executor": "Run",
     "Application.Switchcaseexam.executor": "Run",
@@ -81,15 +86,19 @@
     "Application.dowhileloop.executor": "Run",
     "Application.dowhileprogram.executor": "Run",
     "Application.dowhilesimple.executor": "Run",
+    "Application.elseif.executor": "Run",
     "Application.elseiflader.executor": "Run",
     "Application.fibonacci2.executor": "Run",
     "Application.foreach.executor": "Run",
     "Application.foreachjava.executor": "Run",
+    "Application.forloo.executor": "Run",
     "Application.forloopOddnuber.executor": "Run",
     "Application.forloopthree.executor": "Run",
     "Application.forlopja.executor": "Run",
+    "Application.forlopstrar.executor": "Run",
     "Application.forsimple.executor": "Run",
     "Application.if1.executor": "Run",
+    "Application.ifprogram.executor": "Run",
     "Application.leapyears.executor": "Run",
     "Application.loop.executor": "Run",
     "Application.multiplicationtable.executor": "Run",
