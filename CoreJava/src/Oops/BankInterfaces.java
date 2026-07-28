@@ -4,15 +4,12 @@ interface Rbi{
 
     float rateOfInterest();
 }
-
 class Sbi implements Rbi{
     public float rateOfInterest(){
         System.out.println("sbi bank home loan start a 11.5 %");
 return 0;
     }
-
 }
-
 class Hsbc implements Rbi{
     public float rateOfInterest(){
         System.out.println("hsbc bank home laon start a 6 %");
