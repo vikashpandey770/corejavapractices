@@ -9,8 +9,10 @@ class  Paren{
 
     void ads(){
         aged();
+
     }
 }
+
 
 public class ProtectedModfire {
     public static void main(String[] args) {
@@ -21,3 +23,4 @@ public class ProtectedModfire {
 
     }
 }
+

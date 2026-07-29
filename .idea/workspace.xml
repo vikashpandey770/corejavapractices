@@ -97,6 +97,7 @@
     "Application.MultilevelInheritance.executor": "Run",
     "Application.MultipleInheritance.executor": "Run",
     "Application.MultipleInterface.executor": "Run",
+    "Application.Objvala.executor": "Run",
     "Application.Overloading.executor": "Run",
     "Application.P_acsmo.executor": "Run",
     "Application.Palindrom.executor": "Run",
