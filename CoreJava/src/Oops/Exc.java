@@ -13,7 +13,7 @@ public class Exc {
             System.out.println("ok your answer is:"+c);
 
         }
-        catch (Exception e){
+        catch (ArithmeticException e){
             System.out.println("not divide by zero");
         }
         System.out.println("program end");
