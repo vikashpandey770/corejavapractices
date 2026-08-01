@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f6fbb2e-9b8b-460b-ba15-d5aad2ee8abc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/corejavapractices/Custom_Exception/Ban.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejavapractices/Custom_Exception/Ban.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/corejavapractices/Custom_Exception/StudentMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejavapractices/Custom_Exception/StudentMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
     "Application.Construcor1.executor": "Run",
     "Application.Constructor.executor": "Run",
     "Application.Cretenewobj.executor": "Run",
+    "Application.CustomProgram.executor": "Run",
     "Application.DefaultCons.executor": "Run",
     "Application.DefaultModifires.executor": "Run",
     "Application.Default_interface.executor": "Run",
@@ -112,6 +113,7 @@
     "Application.P_acsmo.executor": "Run",
     "Application.Palindrom.executor": "Run",
     "Application.ParameterConstruc.executor": "Run",
+    "Application.PlayMusic_DownloadMusic.executor": "Run",
     "Application.PrimeNum.executor": "Run",
     "Application.PrimeNumbers.executor": "Run",
     "Application.Private_ac_m.executor": "Run",
@@ -139,6 +141,7 @@
     "Application.This_default_paramerize.executor": "Run",
     "Application.This_paramererDefalt.executor": "Run",
     "Application.Thiskey.executor": "Run",
+    "Application.Thread1.executor": "Run",
     "Application.Throw1.executor": "Run",
     "Application.Throw_Throws_overrides.executor": "Run",
     "Application.Throw_throws.executor": "Run",
@@ -149,6 +152,7 @@
     "Application.Try_CatchMulti.executor": "Run",
     "Application.TwoDary2.executor": "Run",
     "Application.TwoDraay.executor": "Run",
+    "Application.TwoThread.executor": "Run",
     "Application.VariableArgument.executor": "Run",
     "Application.array3.executor": "Run",
     "Application.arrays.executor": "Run",
@@ -256,11 +260,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="THREAD.Thread1" />
+      <module name="corejavapractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="THREAD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Thread1" />
+        <item itemvalue="Application.Ban" />
         <item itemvalue="Application.RestaurentMain" />
         <item itemvalue="Application.MainHotel" />
-        <item itemvalue="Application.Ban" />
       </list>
     </recent_temporary>
   </component>
