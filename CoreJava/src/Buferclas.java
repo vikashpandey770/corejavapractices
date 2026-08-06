@@ -17,4 +17,3 @@ public class Buferclas {
         System.out.println("Time take by String builder "+(System.currentTimeMillis()-startTime)+"ms");
     }
 }
-

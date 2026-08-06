@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f6fbb2e-9b8b-460b-ba15-d5aad2ee8abc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/corejavapractices/FileHandlingProgram/StudenttSerialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejavapractices/FileHandlingProgram/StudenttSerialize.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +55,13 @@
     "Application.Array7.executor": "Run",
     "Application.Array9.executor": "Run",
     "Application.ArrayList1.executor": "Run",
+    "Application.ArrayListGet.executor": "Run",
+    "Application.ArrayListSize.executor": "Run",
+    "Application.ArrayListString.executor": "Run",
     "Application.ArrayMax.executor": "Run",
     "Application.ArrayQuestionone.executor": "Run",
+    "Application.ArrayRemove.executor": "Run",
+    "Application.ArraySet.executor": "Run",
     "Application.Arraymin.executor": "Run",
     "Application.Ban.executor": "Run",
     "Application.BankInterfaces.executor": "Run",
@@ -68,12 +72,14 @@
     "Application.Cons.executor": "Run",
     "Application.Construcor1.executor": "Run",
     "Application.Constructor.executor": "Run",
+    "Application.CountDownProgram.executor": "Run",
     "Application.Cretenewobj.executor": "Run",
     "Application.CustomProgram.executor": "Run",
     "Application.DefaultCons.executor": "Run",
     "Application.DefaultModifires.executor": "Run",
     "Application.Default_interface.executor": "Run",
     "Application.DoWhile.executor": "Run",
+    "Application.EvenNumberPrint.executor": "Run",
     "Application.EvenOddUsingBitWiseOperator.executor": "Run",
     "Application.Evenodd.executor": "Run",
     "Application.EvesnOdd.executor": "Run",
@@ -113,6 +119,7 @@
     "Application.Methods.executor": "Run",
     "Application.Mul_dim_arry.executor": "Run",
     "Application.MultilevelInheritance.executor": "Run",
+    "Application.MultipleCatchBlock.executor": "Run",
     "Application.MultipleInheritance.executor": "Run",
     "Application.MultipleInterface.executor": "Run",
     "Application.MultiplyTwoFlotingnumber.executor": "Run",
@@ -133,8 +140,10 @@
     "Application.RandomNumber.executor": "Run",
     "Application.RestaurentMain.executor": "Run",
     "Application.Sample.executor": "Run",
+    "Application.SampleTreadExtend.executor": "Run",
     "Application.Serializations.executor": "Run",
     "Application.Simmplestar.executor": "Run",
+    "Application.StarPatern.executor": "Run",
     "Application.StarPattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StaticVari.executor": "Run",

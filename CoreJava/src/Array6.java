@@ -11,5 +11,6 @@ public class Array6 {
 
         System.out.println("--------sum of length------------");
         System.out.println(sum);
+
     }
 }
