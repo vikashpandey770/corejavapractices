@@ -72,6 +72,10 @@
     "Application.BreakAndContinue.executor": "Run",
     "Application.Buferclas.executor": "Run",
     "Application.CatchBlocks.executor": "Run",
+    "Application.Collectionjs.executor": "Run",
+    "Application.Comparatorsprogram.executor": "Run",
+    "Application.CompileTimePolymorphism.executor": "Run",
+    "Application.CompliletilePolymor.executor": "Run",
     "Application.Cons.executor": "Run",
     "Application.ConsChaingUsingSuper.executor": "Run",
     "Application.Construcor1.executor": "Run",
@@ -102,18 +106,22 @@
     "Application.FactorialWhileloop.executor": "Run",
     "Application.FactoriyalFind.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.Fibonaseris.executor": "Run",
     "Application.Finally.executor": "Run",
     "Application.Finallyuse.executor": "Run",
     "Application.FindUserFactorial.executor": "Run",
     "Application.Find_LargestValue.executor": "Run",
     "Application.Forloop.executor": "Run",
     "Application.Forsloop.executor": "Run",
+    "Application.GETERSETTER.executor": "Run",
     "Application.HerarchiInheritance.executor": "Run",
     "Application.Implement_Rannable.executor": "Run",
     "Application.Inheritance1.executor": "Run",
     "Application.InheritanceConstructors.executor": "Run",
+    "Application.Inheritance_oveririding.executor": "Run",
     "Application.InstaWelcome.executor": "Run",
     "Application.InstaWelcomefour.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
     "Application.InterfaceTwo.executor": "Run",
     "Application.Interface_Inheritance.executor": "Run",
     "Application.Interface_Polymorphism.executor": "Run",
@@ -128,9 +136,12 @@
     "Application.MethodOverride.executor": "Run",
     "Application.Methodne.executor": "Run",
     "Application.Methodoverloading.executor": "Run",
+    "Application.Methodoverloadingsprogram.executor": "Run",
     "Application.Methodoverloadiung.executor": "Run",
     "Application.Methodoverriding.executor": "Run",
+    "Application.Methodoverriding1.executor": "Run",
     "Application.Methods.executor": "Run",
+    "Application.Methooverload.executor": "Run",
     "Application.Mul_dim_arry.executor": "Run",
     "Application.MultilevelInheritance.executor": "Run",
     "Application.MultipleCatchBlock.executor": "Run",
@@ -155,13 +166,16 @@
     "Application.PyramidPattern.executor": "Run",
     "Application.RandomNumber.executor": "Run",
     "Application.RestaurentMain.executor": "Run",
+    "Application.RuntimePolymorphism.executor": "Run",
     "Application.Sample.executor": "Run",
     "Application.SampleTreadExtend.executor": "Run",
     "Application.Scope2.executor": "Run",
     "Application.Serializations.executor": "Run",
     "Application.Simmplestar.executor": "Run",
+    "Application.SingleInheritance.executor": "Run",
     "Application.StarPatern.executor": "Run",
     "Application.StarPattern.executor": "Run",
+    "Application.StatckMethods.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StaticVari.executor": "Run",
     "Application.StaticVariable.executor": "Run",
@@ -229,6 +243,8 @@
     "Application.nestedfor.executor": "Run",
     "Application.numPatteern.executor": "Run",
     "Application.numberPattern.executor": "Run",
+    "Application.overloads.executor": "Run",
+    "Application.parametrizeConstructorexa.executor": "Run",
     "Application.prac.executor": "Run",
     "Application.practiceone.executor": "Run",
     "Application.questionstarpattern.executor": "Run",
@@ -269,68 +285,6 @@
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Ban" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Custom_Exception.Ban" />
-      <module name="corejavapractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Custom_Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainHotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Custom_Exception.MainHotel" />
-      <module name="corejavapractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Custom_Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestaurentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Custom_Exception.RestaurentMain" />
-      <module name="corejavapractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Custom_Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="THREAD.Thread1" />
-      <module name="corejavapractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="THREAD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Ban" />
-        <item itemvalue="Application.Thread1" />
-        <item itemvalue="Application.RestaurentMain" />
-        <item itemvalue="Application.MainHotel" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
