@@ -1,6 +1,4 @@
-package Collections;
-
-import java.util.Scanner;
+package CollectionsFra;
 
 public class LinkList1 {
     public static void main(String[] args) {

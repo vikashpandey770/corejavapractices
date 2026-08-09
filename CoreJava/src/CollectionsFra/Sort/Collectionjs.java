@@ -1,4 +1,4 @@
-package Collections.Sort;
+package CollectionsFra.Sort;
 import java.util.ArrayList;
 import java.util.Collections;
 public class Collectionjs {

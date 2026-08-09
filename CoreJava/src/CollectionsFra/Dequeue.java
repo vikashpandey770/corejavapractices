@@ -1,4 +1,4 @@
-package Collections;
+package CollectionsFra;
 
 import java.util.ArrayDeque;
 

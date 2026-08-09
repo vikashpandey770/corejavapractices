@@ -1,4 +1,4 @@
-package Collections;
+package CollectionsFra;
 
 public class Emp {
     String name;

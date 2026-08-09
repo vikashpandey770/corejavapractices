@@ -1,4 +1,4 @@
-package Collections;
+package CollectionsFra;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,7 +10,6 @@ public class Comparatorsprogram  implements Comparator<Emp> {
     public int compare(Emp e1, Emp e2) {
 
         int value = 0;
-
         if(e1.getSalary()> e2.getSalary()){
             value =-1;
         }
@@ -21,7 +20,6 @@ public class Comparatorsprogram  implements Comparator<Emp> {
             value =0;
         }
         return value ;
-
     }
     public static void main(String[] args) {
         ArrayList <Emp> list=new ArrayList<>();
@@ -30,7 +28,6 @@ public class Comparatorsprogram  implements Comparator<Emp> {
         e1.setId(1);
         e1.setName("vikash");
         e1.setSalary(35000);
-
         Emp e2=new Emp();
         e2.setId(2);
         e2.setName("karan");
